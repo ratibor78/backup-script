@@ -71,7 +71,7 @@ You can use `cron` to schedule backups at regular intervals (e.g., daily, hourly
 paths = /home/user/documents, /home/user/file.txt
 
 [destination]
-path = /tmp/backup
+path = /opt/backup
 ```
 
 ---
